@@ -1,0 +1,23 @@
+{
+  "valid_Username_Password": {
+    "password": "123456",
+    "username": "qat@mailinator.com"
+  },
+
+  "addToCart_Checkout": {
+    "loginInfo": "Logged in as",
+    "addToCartSuccess": "Your product has been added to cart.",
+    "comment": "Order placed"
+  },
+
+  "cardDetails": {
+    "paymentHeading": "Payment",
+    "nameOnCard": "Test Card",
+    "cardNumber": "4100 0000 0000",
+    "cvc": "123",
+    "month": "01",
+    "year": "1900",
+    "orderPlacedLbl": "Order Placed!",
+    "OrderMessage": "Congratulations! Your order has been confirmed!"
+  }
+}
