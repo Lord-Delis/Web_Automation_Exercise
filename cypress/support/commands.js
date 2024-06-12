@@ -3,8 +3,8 @@ const path = require('path')
 const data = require('../fixtures/data.json')
 
 import LandingLoginPage from "../pageObjects/LandingLoginPage";
-
 const landingLoginPage = new LandingLoginPage();
+
 const info = data.addToCart_Checkout.loginInfo
 const addToCartSuccess = data.addToCart_Checkout.addToCartSuccess
 const comment = data.addToCart_Checkout.comment
